@@ -6,7 +6,7 @@
     background-image: linear-gradient(to bottom, transparent 0%, transparent 50%, v.$primario 50%, v.$primario 100%), url(../img/destacada.jpg);
 
     background-size: 100%, cover;
-    background-position: center, -50rem -30rem;
+    background-position: center, -90rem -30rem;
     background-repeat: no-repeat;
 
     @include m.tablet {
